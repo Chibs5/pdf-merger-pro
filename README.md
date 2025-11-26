@@ -347,7 +347,7 @@ For issues, questions, or suggestions:
 
 ## Author
 
-Created with ❤️ by [Your Name]
+Created with ❤️ by Chibwe Musendeka
 
 ---
 
