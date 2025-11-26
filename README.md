@@ -53,9 +53,17 @@ $ python cli.py merge file1.pdf file2.pdf -o output.pdf --pages "1-5,all"
 
 **No installation required!** Just download and run:
 
+**Option 1: Download from Releases (Recommended)**
 1. Download `PDF Merger Pro.exe` from the [releases](../../releases) page
 2. Double-click to run
 3. Start merging PDFs!
+
+**Option 2: Get from Repository**
+1. Navigate to the `dist/` folder in this repository
+2. Download `PDF Merger Pro.exe`
+3. Double-click to run
+
+> **Note**: The executable is located in the `dist/` folder of this repository (~15-18 MB)
 
 ### For Developers
 
